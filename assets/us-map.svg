@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+<style>
+    rect { fill: #ececec; stroke: #999; cursor: pointer; }
+    rect.active { fill: #ffb347; }
+    text { pointer-events: none; font-size: 10px; text-anchor: middle; dominant-baseline: middle; }
+</style>
+<g id="states">
+  <g id="AL" class="state">
+    <rect id="AL" x="0" y="0" width="100" height="100"/>
+    <text x="50" y="50">AL</text>
+  </g>
+  <g id="AK" class="state">
+    <rect id="AK" x="100" y="0" width="100" height="100"/>
+    <text x="150" y="50">AK</text>
+  </g>
+  <g id="AZ" class="state">
+    <rect id="AZ" x="200" y="0" width="100" height="100"/>
+    <text x="250" y="50">AZ</text>
+  </g>
+  <g id="AR" class="state">
+    <rect id="AR" x="300" y="0" width="100" height="100"/>
+    <text x="350" y="50">AR</text>
+  </g>
+  <g id="CA" class="state">
+    <rect id="CA" x="400" y="0" width="100" height="100"/>
+    <text x="450" y="50">CA</text>
+  </g>
+  <g id="CO" class="state">
+    <rect id="CO" x="500" y="0" width="100" height="100"/>
+    <text x="550" y="50">CO</text>
+  </g>
+  <g id="CT" class="state">
+    <rect id="CT" x="600" y="0" width="100" height="100"/>
+    <text x="650" y="50">CT</text>
+  </g>
+  <g id="DE" class="state">
+    <rect id="DE" x="700" y="0" width="100" height="100"/>
+    <text x="750" y="50">DE</text>
+  </g>
+  <g id="FL" class="state">
+    <rect id="FL" x="800" y="0" width="100" height="100"/>
+    <text x="850" y="50">FL</text>
+  </g>
+  <g id="GA" class="state">
+    <rect id="GA" x="900" y="0" width="100" height="100"/>
+    <text x="950" y="50">GA</text>
+  </g>
+  <g id="HI" class="state">
+    <rect id="HI" x="0" y="100" width="100" height="100"/>
+    <text x="50" y="150">HI</text>
+  </g>
+  <g id="ID" class="state">
+    <rect id="ID" x="100" y="100" width="100" height="100"/>
+    <text x="150" y="150">ID</text>
+  </g>
+  <g id="IL" class="state">
+    <rect id="IL" x="200" y="100" width="100" height="100"/>
+    <text x="250" y="150">IL</text>
+  </g>
+  <g id="IN" class="state">
+    <rect id="IN" x="300" y="100" width="100" height="100"/>
+    <text x="350" y="150">IN</text>
+  </g>
+  <g id="IA" class="state">
+    <rect id="IA" x="400" y="100" width="100" height="100"/>
+    <text x="450" y="150">IA</text>
+  </g>
+  <g id="KS" class="state">
+    <rect id="KS" x="500" y="100" width="100" height="100"/>
+    <text x="550" y="150">KS</text>
+  </g>
+  <g id="KY" class="state">
+    <rect id="KY" x="600" y="100" width="100" height="100"/>
+    <text x="650" y="150">KY</text>
+  </g>
+  <g id="LA" class="state">
+    <rect id="LA" x="700" y="100" width="100" height="100"/>
+    <text x="750" y="150">LA</text>
+  </g>
+  <g id="ME" class="state">
+    <rect id="ME" x="800" y="100" width="100" height="100"/>
+    <text x="850" y="150">ME</text>
+  </g>
+  <g id="MD" class="state">
+    <rect id="MD" x="900" y="100" width="100" height="100"/>
+    <text x="950" y="150">MD</text>
+  </g>
+  <g id="MA" class="state">
+    <rect id="MA" x="0" y="200" width="100" height="100"/>
+    <text x="50" y="250">MA</text>
+  </g>
+  <g id="MI" class="state">
+    <rect id="MI" x="100" y="200" width="100" height="100"/>
+    <text x="150" y="250">MI</text>
+  </g>
+  <g id="MN" class="state">
+    <rect id="MN" x="200" y="200" width="100" height="100"/>
+    <text x="250" y="250">MN</text>
+  </g>
+  <g id="MS" class="state">
+    <rect id="MS" x="300" y="200" width="100" height="100"/>
+    <text x="350" y="250">MS</text>
+  </g>
+  <g id="MO" class="state">
+    <rect id="MO" x="400" y="200" width="100" height="100"/>
+    <text x="450" y="250">MO</text>
+  </g>
+  <g id="MT" class="state">
+    <rect id="MT" x="500" y="200" width="100" height="100"/>
+    <text x="550" y="250">MT</text>
+  </g>
+  <g id="NE" class="state">
+    <rect id="NE" x="600" y="200" width="100" height="100"/>
+    <text x="650" y="250">NE</text>
+  </g>
+  <g id="NV" class="state">
+    <rect id="NV" x="700" y="200" width="100" height="100"/>
+    <text x="750" y="250">NV</text>
+  </g>
+  <g id="NH" class="state">
+    <rect id="NH" x="800" y="200" width="100" height="100"/>
+    <text x="850" y="250">NH</text>
+  </g>
+  <g id="NJ" class="state">
+    <rect id="NJ" x="900" y="200" width="100" height="100"/>
+    <text x="950" y="250">NJ</text>
+  </g>
+  <g id="NM" class="state">
+    <rect id="NM" x="0" y="300" width="100" height="100"/>
+    <text x="50" y="350">NM</text>
+  </g>
+  <g id="NY" class="state">
+    <rect id="NY" x="100" y="300" width="100" height="100"/>
+    <text x="150" y="350">NY</text>
+  </g>
+  <g id="NC" class="state">
+    <rect id="NC" x="200" y="300" width="100" height="100"/>
+    <text x="250" y="350">NC</text>
+  </g>
+  <g id="ND" class="state">
+    <rect id="ND" x="300" y="300" width="100" height="100"/>
+    <text x="350" y="350">ND</text>
+  </g>
+  <g id="OH" class="state">
+    <rect id="OH" x="400" y="300" width="100" height="100"/>
+    <text x="450" y="350">OH</text>
+  </g>
+  <g id="OK" class="state">
+    <rect id="OK" x="500" y="300" width="100" height="100"/>
+    <text x="550" y="350">OK</text>
+  </g>
+  <g id="OR" class="state">
+    <rect id="OR" x="600" y="300" width="100" height="100"/>
+    <text x="650" y="350">OR</text>
+  </g>
+  <g id="PA" class="state">
+    <rect id="PA" x="700" y="300" width="100" height="100"/>
+    <text x="750" y="350">PA</text>
+  </g>
+  <g id="RI" class="state">
+    <rect id="RI" x="800" y="300" width="100" height="100"/>
+    <text x="850" y="350">RI</text>
+  </g>
+  <g id="SC" class="state">
+    <rect id="SC" x="900" y="300" width="100" height="100"/>
+    <text x="950" y="350">SC</text>
+  </g>
+  <g id="SD" class="state">
+    <rect id="SD" x="0" y="400" width="100" height="100"/>
+    <text x="50" y="450">SD</text>
+  </g>
+  <g id="TN" class="state">
+    <rect id="TN" x="100" y="400" width="100" height="100"/>
+    <text x="150" y="450">TN</text>
+  </g>
+  <g id="TX" class="state">
+    <rect id="TX" x="200" y="400" width="100" height="100"/>
+    <text x="250" y="450">TX</text>
+  </g>
+  <g id="UT" class="state">
+    <rect id="UT" x="300" y="400" width="100" height="100"/>
+    <text x="350" y="450">UT</text>
+  </g>
+  <g id="VT" class="state">
+    <rect id="VT" x="400" y="400" width="100" height="100"/>
+    <text x="450" y="450">VT</text>
+  </g>
+  <g id="VA" class="state">
+    <rect id="VA" x="500" y="400" width="100" height="100"/>
+    <text x="550" y="450">VA</text>
+  </g>
+  <g id="WA" class="state">
+    <rect id="WA" x="600" y="400" width="100" height="100"/>
+    <text x="650" y="450">WA</text>
+  </g>
+  <g id="WV" class="state">
+    <rect id="WV" x="700" y="400" width="100" height="100"/>
+    <text x="750" y="450">WV</text>
+  </g>
+  <g id="WI" class="state">
+    <rect id="WI" x="800" y="400" width="100" height="100"/>
+    <text x="850" y="450">WI</text>
+  </g>
+  <g id="WY" class="state">
+    <rect id="WY" x="900" y="400" width="100" height="100"/>
+    <text x="950" y="450">WY</text>
+  </g>
+</g>
+</svg>
